@@ -1,0 +1,33 @@
+nav {
+    background-color: aquamarine;
+    height: 100px;
+}
+
+.naveBar{
+    display: flex;
+    justify-content: space-around;
+}
+.naveBarItem{
+    list-style: none;
+    color: rgb(4, 54, 54);
+    font-size: 30px;
+    margin-top: 30px;
+}
+.naveBarItem:hover{
+    cursor: pointer;
+}
+#homePictures{
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 40%;
+}
+h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: goldenrod;
+}
+th,td{
+    height: 70px;
+    width: 300;
+    text-align: center;
+}
